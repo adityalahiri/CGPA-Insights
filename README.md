@@ -5,10 +5,11 @@ Libraries used are Pandas, Plotly and Cufflinks.
 
 1. ComputerScienceCgpa
 The first visualisation has all Computer Science single degree students of BITS Goa from 2013-2016.
-Features- X axis- Roll number(Last 3 digits) of every student
+Features- 
+X axis- Roll number(Last 3 digits) of every student
 Y Axis-CGPA
 
-The scatter plot is color coded on basis of which year the student joined the instituion and hence gives information regarding which year he/she is in. For a particular roll number, the Cgpa of students of all years is displayed. On hovering, the name of the student is also displayed.
+The scatter plot is color coded on basis of which year the student joined the institution and hence gives information regarding which year he/she is in. For a particular roll number, the Cgpa of students of all years is displayed. On hovering, the name of the student is also displayed.
 
 On clicking the legend on the right that has years, one can hide plots of those year's students and get lesser data.
 
